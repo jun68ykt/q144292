@@ -1,0 +1,16 @@
+table, th, td { border: solid 1px #000000; border-collapse: collapse; }
+
+th { background-color: #aaa; }
+th.result { width: 150px; }
+td { padding: 5px; }
+td.result { text-align: right; }
+input { font-size: 16pt; }
+
+input { width: 100px; }
+input.se_a { width: 30px; }
+
+input.error { background-color: #dc143c; }
+
+th.comment { width: 200px; }
+
+tr.area th { background-color: lavender; }
